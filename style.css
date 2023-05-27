@@ -7,6 +7,7 @@ header {
   h1 {
     font-size: 24px;
     color: #333333;
+    text-align: center;
 
   }
   
@@ -38,7 +39,6 @@ header {
   td {
     padding: 10px;
     border: 2px solid #a9a9a9;
-    text-align: center;
   }
 
   th {
